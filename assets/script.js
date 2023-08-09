@@ -1,6 +1,8 @@
 
 var eventsData=[];
-
+//shows current date
+var today = dayjs();
+$("#currentDay").text(today.format("dddd, MMMM D"));
 // checks time and changes colors of time block based on past present and future
 function setColors() {
     var now = dayjs();
