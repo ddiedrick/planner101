@@ -10,7 +10,7 @@ To use the application click on the link below.
 
 
 ### Link to Repo
-
+https://github.com/ddiedrick/planner101
 
 
 ### screenshot
