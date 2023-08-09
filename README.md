@@ -7,7 +7,7 @@ The purpose of this assingment is to create an easy to use ad-free day planner w
 To use the application click on the link below.
 
 ### Link to Deployed Page
-
+https://ddiedrick.github.io/planner101/
 
 ### Link to Repo
 https://github.com/ddiedrick/planner101
